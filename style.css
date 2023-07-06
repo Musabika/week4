@@ -1,0 +1,18 @@
+.gamediv{
+
+    justify-content: center;
+    margin-left: 40%;
+}
+
+#playerText{
+    color: blue;
+ 
+}
+#computerText{
+    color: red;
+    
+}
+#resultText{
+    color: black;
+    
+}
